@@ -1,1 +1,1 @@
-# odin-recipes
+This is my first project with HTML. I am going to practice what I have learned thus far by creating a list of recipes based on some of my favorite foods.
